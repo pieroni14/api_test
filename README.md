@@ -9,8 +9,8 @@ Como Executar os Testes:
 No IntelliJ IDEA:
 
 Importe o projeto no IntelliJ IDEA.
-Clique com o botão direito sobre Sicreed_API.Sicred_API_Challenge.
-Selecione "Run Test in 'Sicred_API_Challenge'".
+Clique com o botão direito sobre.
+Selecione "Run Test".
 Todos os cenários de teste serão executados, e o console do IDE exibirá um relatório detalhado dos cenários que passaram e dos que não passaram.
 
 
